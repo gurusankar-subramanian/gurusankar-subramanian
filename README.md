@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Tinkering ideas, hobby projects and utils to make life and work easier!
+
+- 🌱 I’m currently working in Java, especially Reactive and concurrent programming these days!
+- 🌱 I tinker with Python for hobby projects and utilities. 
+- 👯 I’m looking to collaborate on anything Interesting!
+- How to reach me: gurusankar.subramanian@gmail.com
+  
 <!--
 **gurusankar-subramanian/gurusankar-subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
