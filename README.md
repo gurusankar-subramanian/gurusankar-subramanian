@@ -2,7 +2,7 @@
 
 Tinkering ideas, hobby projects and utils to make life and work easier!
 
-- 🌱 I’m currently working in Java, especially Reactive and concurrent programming these days!
+- 🌱 I work in Java, especially Reactive and concurrent programming these days!
 - 🌱 I tinker with Python for hobby projects and utilities. 
 - 👯 I’m looking to collaborate on anything Interesting!
 - How to reach me: gurusankar.subramanian@gmail.com
